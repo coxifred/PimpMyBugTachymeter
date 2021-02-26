@@ -12,6 +12,11 @@ Tachymeter Gear replacement for my plain old VW bug 1973 3DFILE STL
 - Model for km/h, perhaps mph model should have +1/-1 tooth.
 - Warn, Abs print increase internal diameter, you need to reduce diameter ~0.2mm
 - Prefer Nylon printing for lifecycle.
+- Printing settings :
+   * 0.2mm layer.
+   * 100% infill.
+   * Speed med.
+   * ~ Approx printing time 1mn30.
 
 # Design
 
