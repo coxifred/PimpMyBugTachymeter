@@ -22,7 +22,7 @@ Tachymeter Gear replacement for my plain old VW bug 1973 3DFILE STL
 
   Designed with openscad.
   
-  - Stl/scaf files in files directory.
+  - Stl/scad files in files directory.
  
 # Pictures
 
