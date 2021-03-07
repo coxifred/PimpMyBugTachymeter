@@ -35,3 +35,4 @@ Tachymeter Gear replacement for my plain old VW bug 1973 3DFILE STL
 ![gear3](https://github.com/coxifred/PimpMyBugTachymeter/blob/main/files/gear3.jpg?raw=true)
 ![gear4](https://github.com/coxifred/PimpMyBugTachymeter/blob/main/files/gear4.jpg?raw=true)
 ![nylon](https://github.com/coxifred/PimpMyBugTachymeter/blob/main/files/nylon.jpg?raw=true)
+![nylon2](https://github.com/coxifred/PimpMyBugTachymeter/blob/main/files/nylon2.jpg?raw=true)
